@@ -50,7 +50,7 @@
 // // */
 
 // // //Code Here
-// for (i = 0; i < nums.length; i++){
+// for (let i = 0; i < nums.length; i++){
 //   if (nums[i] % 2 === 0){
 //   evensArr.push(nums[i]);
 //   }
@@ -123,7 +123,7 @@
 // // // Use a for-loop to iterate through 'listOfNumbers', checking to see if each number is divisible by 3. If it is, console.log '{number} is divisible by 3.'
 
 // // //Code Here
-// for (i = 0; i < listOfNumbers.length; i++){
+// for (let i = 0; i < listOfNumbers.length; i++){
 //   if (listOfNumbers[i] % 3 === 0){
 //     console.log(`${listOfNumbers[i]} and is divisible by 3.`);
 //   }
@@ -140,7 +140,7 @@
 // */
 
 // //Code Here
-// for (i = letters.length - 1; i >= 0; i--){
+// for (let i = letters.length - 1; i >= 0; i--){
 //   console.log(letters[i]);
 // }
 
@@ -211,3 +211,14 @@
 // */
 
 // //Code Here
+// for (let i = 1; i <= 100; i++){
+//   if(i % 3 === 0 && i % 5 === 0){
+//     console.log('Devmountain');
+//   } else if(i % 3 === 0){
+//     console.log('Dev');
+//   } else if(i % 5 === 0){
+//     console.log('mountain');
+//   } else {
+//     console.log(i);
+//   }
+// }
