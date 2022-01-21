@@ -50,11 +50,7 @@
 // // */
 
 // // //Code Here
-<<<<<<< HEAD
 // for (let i = 0; i < nums.length; i++){
-=======
-// for (i = 0; i < nums.length; i++){
->>>>>>> f5d6042fe5313b3a5352665881d8086001c14a50
 //   if (nums[i] % 2 === 0){
 //   evensArr.push(nums[i]);
 //   }
@@ -122,7 +118,6 @@
 
 // // Do not edit the code below.
 // var listOfNumbers = [1,2,3,4,5,6,7,8,9,10,11,12];
-<<<<<<< HEAD
 // // // Do not edit the code above.
 
 // // // Use a for-loop to iterate through 'listOfNumbers', checking to see if each number is divisible by 3. If it is, console.log '{number} is divisible by 3.'
@@ -133,13 +128,6 @@
 //     console.log(`${listOfNumbers[i]} and is divisible by 3.`);
 //   }
 // }
-=======
-// // Do not edit the code above.
-
-// // Use a for-loop to iterate through 'listOfNumbers', checking to see if each number is divisible by 3. If it is, console.log '{number} is divisible by 3.'
-
-// //Code Here
->>>>>>> f5d6042fe5313b3a5352665881d8086001c14a50
 
 
 // ////////// PROBLEM 9 //////////
@@ -152,20 +140,15 @@
 // */
 
 // //Code Here
-<<<<<<< HEAD
 // for (let i = letters.length - 1; i >= 0; i--){
 //   console.log(letters[i]);
 // }
-=======
-
->>>>>>> f5d6042fe5313b3a5352665881d8086001c14a50
 
 // ////////// Advanced Problems //////////
 
 // ////////// PROBLEM 10 //////////
 // // Switch statements can be excellent alternatives to if blocks. Look up switch statements (I recommend W3 Schools) and try to implement one for the following.
 
-<<<<<<< HEAD
 // // // Do not edit the code below.
 // let letterGrade = 'B'
 // // // Do not edit the code above.
@@ -202,25 +185,6 @@
 //       console.log("Not an eligible grade.");
 //       break;
 // }
-=======
-// // Do not edit the code below.
-// let letterGrade = 'B'
-// // Do not edit the code above.
-
-// /* Use a switch statement on 'letterGrade' and console.log the appropriate response.
-
-// If A: "The student is doing excellently."
-// If B: "The student is doing well."
-// If C: "The student is doing alright."
-// If D: "The student is not doing very well."
-// If F: "The student is failing."
-// If the letter grade is not one of the above letters, console.log 'Not an eligible grade.'
-// */
-
-// //Code Here
-
-
->>>>>>> f5d6042fe5313b3a5352665881d8086001c14a50
 
 // ////////// PROBLEM 11 //////////
 // /* The famous FizzBuzz, Devmountain style!
@@ -246,7 +210,6 @@
 //   ...
 // */
 
-<<<<<<< HEAD
 // //Code Here
 // for (let i = 1; i <= 100; i++){
 //   if(i % 3 === 0 && i % 5 === 0){
@@ -259,6 +222,3 @@
 //     console.log(i);
 //   }
 // }
-=======
-// //Code Here
->>>>>>> f5d6042fe5313b3a5352665881d8086001c14a50
